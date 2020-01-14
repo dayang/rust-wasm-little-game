@@ -1,3 +1,9 @@
+The original game is [Project: A Platform Game](https://eloquentjavascript.net/2nd_edition/15_game.html)  from [Eloquent JavaScript](https://eloquentjavascript.net/). 
+
+I rewritten it in rust and webassembly, [try it](https://yyonghua.com/static/wasm-game/index.html).
+
+About how to start with rust and webassembly, reference below.
+
 <div align="center">
 
   <h1><code>wasm-pack-template</code></h1>
