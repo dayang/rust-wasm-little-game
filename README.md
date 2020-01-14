@@ -2,7 +2,7 @@ The original game is [Project: A Platform Game](https://eloquentjavascript.net/2
 
 I rewritten it in rust and webassembly, [try it](https://yyonghua.com/static/wasm-game/index.html).
 
-About how to start with rust and webassembly, reference below.
+About how to start with rust and webassembly, reference [the book](https://rustwasm.github.io/book/) and below.
 
 <div align="center">
 
